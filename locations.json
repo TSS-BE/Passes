@@ -1,6 +1,11 @@
 {
   "locations": [
     {
+    "longitude": 4.384117,
+    "latitude": 50.785440,
+    "relevantText": "Bienvenue au B19 - Notre Siège"
+    },
+    {
       "longitude": 4.351710,
       "latitude": 50.850340,
       "relevantText": "Bienvenue à Bruxelles Centre"
